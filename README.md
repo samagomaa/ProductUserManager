@@ -1,7 +1,3 @@
-Certainly! Here's the README section formatted for display:
-
----
-
 # ProductUserManager
 
 ## Features
@@ -35,6 +31,3 @@ Certainly! Here's the README section formatted for display:
 - **API Design**: Understood the principles of designing RESTful APIs.
 - **Security Best Practices**: Implemented password hashing using `bcrypt` and token-based authentication using `jsonwebtoken`.
 
----
-
-Feel free to copy and paste this into your README file. Let me know if you need further assistance!
